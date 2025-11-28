@@ -412,5 +412,3 @@ mindmap
       Ignoring error handling
       Not monitoring performance
 ```
-
-这些图表涵盖了 VERL Partial Rollout 实现的各个方面，从系统架构到具体流程，从性能分析到调试指南。您可以根据演讲的具体需求选择合适的图表来增强表达效果！
